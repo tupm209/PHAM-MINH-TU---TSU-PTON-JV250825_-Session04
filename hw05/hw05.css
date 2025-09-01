@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  background-color: rgb(255, 255, 202);
+  border-left: 5px solid orange;
+  padding: 10px;
+}
+
+span {
+  color: orange;
+}
+
+h1, p, div {
+  margin: 10px;
+}
